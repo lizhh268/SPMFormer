@@ -3,7 +3,7 @@ A novel physical model-based transformer framework for underwater image enhancem
 
 This repository includes code for the following paper:
 
-SPMFormer: Simplified Physical Model-based Transformer for Underwater Image Enhancement
+SPMFormer: Simplified Physical Model-based Transformer with cross-space loss for Underwater Image Enhancement
 
 # Training Environment
 We train and test the code on PyTorch 1.10.2 + CUDA 11.3 + cuDNN 8.2.0.
