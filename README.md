@@ -46,11 +46,13 @@ python test.py --model (model name) --dataset (dataset name) --exp (exp name)
 @article{LI2025113694,
 title = {SPMFormer: Simplified Physical Model-based transformer with cross-space loss for underwater image enhancement},
 journal = {Knowledge-Based Systems},
+volume = {322},
 pages = {113694},
 year = {2025},
 issn = {0950-7051},
 doi = {https://doi.org/10.1016/j.knosys.2025.113694},
 url = {https://www.sciencedirect.com/science/article/pii/S0950705125007403},
-author = {Zhuohao Li and Qichao Chen and Jianming Miao}
+author = {Zhuohao Li and Qichao Chen and Jianming Miao},
+keywords = {Underwater image enhancement, Physical model, Vision Transformer, Patch Embedding, Cross-space loss}
 }
 ```
